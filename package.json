@@ -1,5 +1,5 @@
 {
-  "name": "Stefanie-whatsapp-bot-md",
+  "name": "Darkexe-whatsapp-bot-md",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "stefanie.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "Darkexe🔮",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
